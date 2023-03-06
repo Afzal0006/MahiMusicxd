@@ -7,6 +7,7 @@
 
 > ⭐️ Thanks to everyone for using Mahi,  🤭 That is the greatest pleasure we have !
 
+https://heroku.com/deploy?template=https://github.com/Xdarnav/MahiMusicxd
 
 ## Features Of Mahi Music And Commands ❤️
 
