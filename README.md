@@ -6,8 +6,9 @@
 
 
 > ⭐️ Thanks to everyone for using Mahi,  🤭 That is the greatest pleasure we have !
-
-https://heroku.com/deploy?template=https://github.com/Xdarnav/MahiMusicxd
+<b><i>••DEPLOY TO HEROKU••</i></b>
+<p><a href="https://heroku.com/deploy?template=https://github.com/Xdarnav/MahiMusicxd"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku" width="200""/></a></p>
+</pre>
 
 ## Features Of Mahi Music And Commands ❤️
 
